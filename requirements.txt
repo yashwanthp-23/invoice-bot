@@ -1,1 +1,6 @@
-pip freeze > requirements.txt
+fastapi==0.110.0
+uvicorn==0.29.0
+motor==3.4.0
+fpdf==1.7.2
+python-dotenv==1.0.1
+requests==2.31.0
